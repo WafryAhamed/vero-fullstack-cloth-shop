@@ -1,1 +1,0 @@
-# vero-fullstack-cloth-shop web
